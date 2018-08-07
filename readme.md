@@ -1,4 +1,4 @@
-# TransProb
+# TextTransProb
 
 - 文字列中の文字頻出パターンを学習して，文字列の生成確率を計算する
 - 任意の文字列が学習データに類似しているかどうかを評価する
@@ -26,7 +26,7 @@ print("p =", tp.calc_prob("pen"))
 
 ---
 
-# TransProb
+# TextTransProb
 
 - It trains frequent patterns of characters in character strings
 - It computes a transition probability of a character string.
